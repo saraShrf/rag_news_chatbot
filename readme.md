@@ -24,8 +24,8 @@ An Arabic news analysis chatbot built with LlamaIndex, Qdrant (local vector DB),
 ## Prerequisites
 - Python 3.10+
 - Windows/macOS/Linux
-- Optionally Ollama (if you switch to an Ollama-backed model). The default here uses a local HF embedding and model wrappers via LlamaIndex.
-
+- Ollama service running
+  
 Install dependencies:
 
 ```bash
